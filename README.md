@@ -46,8 +46,8 @@ C++ implementation of A-Star path planning algorithm
 
 ## Sample Output
 <p float="left">
-      <img src="https://user-images.githubusercontent.com/56740627/103735982-1033e780-4fa4-11eb-972c-1e094cc8dee7.png" width="500"/> 
-      <img src="https://user-images.githubusercontent.com/56740627/103736905-057a5200-4fa6-11eb-95ef-be1f6ba584e3.png" width="400"/> 
+      <img src="https://user-images.githubusercontent.com/56740627/103735982-1033e780-4fa4-11eb-972c-1e094cc8dee7.png" width="400"/> 
+      <img src="https://user-images.githubusercontent.com/56740627/103736905-057a5200-4fa6-11eb-95ef-be1f6ba584e3.png" width="300"/> 
 </p>
 
 ## Future Work
