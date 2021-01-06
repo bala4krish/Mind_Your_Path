@@ -45,7 +45,10 @@ C++ implementation of A-Star path planning algorithm
 
 
 ## Sample Output
-<img src="https://user-images.githubusercontent.com/56740627/103735982-1033e780-4fa4-11eb-972c-1e094cc8dee7.png" /> <img src="https://user-images.githubusercontent.com/56740627/103735692-74a27700-4fa3-11eb-99c7-01e838eb0ac6.png" /> 
+<p float="center">
+      <img src="https://user-images.githubusercontent.com/56740627/103735982-1033e780-4fa4-11eb-972c-1e094cc8dee7.png" /> 
+      <img src="https://user-images.githubusercontent.com/56740627/103736905-057a5200-4fa6-11eb-95ef-be1f6ba584e3.png" /> 
+</p>
 
 ## Future Work
     Implementing a live skecth of the exploration of nodes and the evolution of optimal path when found over the grid with obstacles using Python and OpenCV.
